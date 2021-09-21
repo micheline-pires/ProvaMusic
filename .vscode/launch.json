@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-MusicApplication<musica>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.tech4me.music.MusicApplication",
+            "projectName": "musica",
+            "args": ""
+        }
+    ]
+}
